@@ -29,8 +29,7 @@ I enjoy building intelligent applications and full-stack systems that solve real
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-kumud-profile.vercel.app/api?username=kumud1606&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kumud1606&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats-kumud-profile.vercel.app/api/top-langs/?username=kumud1606&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)username=kumud1606&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)username=kumud1606&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats-kumud-profile.vercel.app/api/top-langs/?
 ---
 [![](https://visitcount.itsvg.in/api?id=kumud1606&icon=2&color=3)](https://visitcount.itsvg.in)
 
