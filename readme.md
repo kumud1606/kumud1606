@@ -29,7 +29,7 @@ I enjoy building intelligent applications and full-stack systems that solve real
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-kumud-profile.vercel.app/api?username=kumud1606&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kumud1606&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats-kumud-profile.vercel.app/api/top-langs/?
+
 -
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
