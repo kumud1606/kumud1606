@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 I am a cheerful and hardworking Computer Science student passionate about Artificial Intelligence, image-based systems, and problem solving.
 
 I enjoy building intelligent applications and full-stack systems that solve real-world problems. I love solving puzzles and riddles, and I strongly believe in persistence and never giving up until I find a solution.
