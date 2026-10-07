@@ -368,4 +368,5 @@
 <rect x="748" y="30" width="11" height="11" rx="2" fill="#0d1117" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.728s" dur="0.4s" fill="freeze"/></rect>
 <rect x="748" y="44" width="11" height="11" rx="2" fill="#0d1117" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.730s" dur="0.4s" fill="freeze"/></rect>
 <rect x="748" y="58" width="11" height="11" rx="2" fill="#0d1117" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.732s" dur="0.4s" fill="freeze"/></rect>
+<rect x="748" y="72" width="11" height="11" rx="2" fill="#0d1117" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.734s" dur="0.4s" fill="freeze"/></rect>
 </svg>
